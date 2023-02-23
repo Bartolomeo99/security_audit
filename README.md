@@ -1,5 +1,5 @@
 # Audyt Bezpieczenstwa aplikacji serwisu z filmami
-## Kamil Synowiec, Bartosz Kralka
+
 
 ### Na potrzeby wykonania audytu wykorzystaliśmy materiały OWASP TOP 10.
 
